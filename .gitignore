@@ -13,3 +13,5 @@ cache/
 .DS_Store
 .idea/
 .vscode/
+modelo_*/
+results/
