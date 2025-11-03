@@ -9,6 +9,8 @@
 </a>
 </div>
 
+<br>
+<br>
 
 🤗 **Demo Interactiva en Hugging Face Spaces**
 Descubre la segunda parte del taller: una aplicación en Hugging Face Spaces donde concatenamos dos modelos de forma sencilla.
