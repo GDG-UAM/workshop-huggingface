@@ -1,11 +1,5 @@
-# workshop-huggingface
-
-RAG assistant para el taller de Hugging Face en GDG UAM. Construiremos el
-proyecto paso a paso:
-
-1. **Estructura base** (este commit): carpetas, `pyproject.toml`, script principal.
-2. **Ingesta**: parsing de PDFs/JSON en fragmentos normalizados.
-3. **Recuperación**: índice TF-IDF + embeddings con cachés.
-4. **Generación y app**: modelo generativo, orquestación y UI.
-
-Cada etapa terminará en un commit/push etiquetado para facilitar el seguimiento.
+<p align="center">
+  <a href="https://colab.research.google.com/github/GDG-UAM/workshop-huggingface/blob/main/notebook_final/llm_cafeteria.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Google Colab" width="250">
+  </a>
+</p>
